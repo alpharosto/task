@@ -1,0 +1,16 @@
+[{
+    "type" : "event1",
+    "_id": "0",
+    "name":"myevent",
+    "tagline":"this is event",
+    "schedule":16062023,
+    "description":"data describe",
+    "moderator":"Saurav",
+    "catogory":"event of category",
+    "sub_category":"myne catogery",
+    "riger_rank":1,
+    "attendees":["user1","user2","user3"],
+    "imageData":"https://th.bing.com/th/id/OIP.1YM53mG10H_U25iPjop83QHaEo?pid=ImgDet&rs=1"
+
+
+}]
